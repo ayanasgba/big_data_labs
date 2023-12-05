@@ -1,0 +1,501 @@
+salary,city,age,vacation_prefer,transport_prefer,target
+47466,Karakol,42,Walking,auto,Berlin
+65906,Balykchy,32,Beach,train,Vien
+89765,Naryn,52,Sport,auto,Washington
+80953,Osh,58,Walking,cruise,Ankara
+49740,Kara-Balta,46,At home,plane,Astana
+85167,Osh,59,Mountain,cruise,Paris
+78438,Naryn,55,Walking,train,Vien
+92459,Karakol,40,Beach,boat,Ankara
+74759,Talas,52,Park,auto,Washington
+59304,Talas,64,Mountain,auto,Ankara
+86613,Naryn,39,Diving,plane,Berlin
+53728,Karakol,61,Diving,cruise,Tashkent
+81909,Djalal-Abad,37,Mountain,boat,Astana
+73005,Talas,49,At home,cruise,Rome
+87322,Osh,45,Beach,plane,Astana
+92647,Osh,53,Sport,train,Rome
+69581,Batken,44,Sport,cruise,Berlin
+78086,Batken,46,At home,boat,Ankara
+40818,Osh,30,Mountain,train,Astana
+61986,Talas,36,Diving,auto,Paris
+95125,Balykchy,56,Park,cruise,Astana
+49495,Balykchy,55,Shopping,train,Vien
+52095,Djalal-Abad,48,Mountain,plane,Berlin
+53395,Karakol,55,At home,cruise,Washington
+91513,Balykchy,32,Shopping,cruise,Paris
+84424,Batken,38,Shopping,train,Paris
+81143,Naryn,44,At home,auto,Astana
+38523,Naryn,48,Mountain,plane,Washington
+31230,Naryn,43,Mountain,train,Ankara
+43494,Balykchy,63,Shopping,cruise,Rome
+50905,Bishkek,34,At home,auto,Tashkent
+30400,Bishkek,30,Park,plane,Vien
+87976,Naryn,50,Sport,boat,Astana
+77957,Djalal-Abad,40,At home,boat,Astana
+89883,Osh,57,Mountain,auto,Paris
+90614,Naryn,37,Sport,plane,Tashkent
+78308,Naryn,62,Shopping,auto,Paris
+50973,Balykchy,59,Mountain,train,Vien
+80625,Talas,35,Park,auto,Tashkent
+80434,Bishkek,49,Diving,auto,Vien
+97108,Kara-Balta,59,Beach,train,Rome
+32385,Balykchy,47,Park,train,Ankara
+39104,Balykchy,42,Mountain,plane,Berlin
+32984,Batken,38,Shopping,boat,Vien
+99953,Batken,53,Mountain,cruise,Berlin
+94761,Bishkek,49,Diving,auto,Tashkent
+33712,Karakol,37,Mountain,auto,Washington
+95624,Talas,56,Park,auto,Berlin
+93817,Djalal-Abad,32,Park,train,Tashkent
+34031,Karakol,48,Park,plane,Berlin
+49512,Bishkek,42,Sport,plane,Washington
+63401,Balykchy,41,Mountain,cruise,Paris
+65015,Batken,32,Diving,cruise,Berlin
+88159,Balykchy,55,Mountain,cruise,Vien
+63409,Naryn,51,Shopping,train,Rome
+84700,Osh,63,Walking,auto,Rome
+76137,Batken,52,Shopping,plane,Ankara
+52959,Kara-Balta,34,Park,boat,Ankara
+72686,Djalal-Abad,48,Walking,cruise,Berlin
+88612,Osh,30,Mountain,auto,Astana
+77813,Batken,39,Park,boat,Ankara
+80093,Batken,49,Walking,train,Rome
+85017,Bishkek,62,Beach,plane,Rome
+64629,Talas,34,Beach,boat,Vien
+35891,Bishkek,37,Walking,cruise,Astana
+91600,Karakol,49,Shopping,train,Tashkent
+82531,Balykchy,34,Diving,train,Ankara
+61326,Talas,58,Diving,plane,Tashkent
+64310,Djalal-Abad,47,Walking,boat,Paris
+98238,Balykchy,64,Beach,cruise,Paris
+56196,Osh,44,Mountain,auto,Berlin
+31257,Naryn,37,Shopping,cruise,Rome
+97116,Kara-Balta,59,Sport,train,Berlin
+62142,Batken,52,Mountain,plane,Ankara
+38812,Bishkek,64,Beach,auto,Ankara
+39225,Kara-Balta,61,Diving,auto,Rome
+75248,Batken,45,Sport,cruise,Astana
+42434,Osh,42,Diving,auto,Washington
+45178,Batken,45,Park,plane,Vien
+63831,Bishkek,36,Beach,plane,Astana
+65562,Talas,52,Beach,train,Berlin
+67402,Naryn,37,Shopping,boat,Vien
+65582,Naryn,31,Beach,auto,Tashkent
+83740,Naryn,39,Mountain,plane,Ankara
+64172,Bishkek,56,Mountain,boat,Washington
+59084,Osh,46,Beach,train,Berlin
+77623,Djalal-Abad,44,Sport,auto,Washington
+86663,Naryn,35,At home,auto,Rome
+33557,Karakol,30,Walking,cruise,Paris
+79031,Kara-Balta,33,Walking,train,Washington
+89105,Naryn,56,At home,cruise,Washington
+76408,Bishkek,42,Shopping,auto,Ankara
+85637,Batken,34,At home,boat,Astana
+67153,Kara-Balta,34,Diving,cruise,Tashkent
+42462,Talas,55,Walking,boat,Paris
+67914,Batken,47,Diving,boat,Ankara
+38703,Osh,50,Walking,train,Vien
+71059,Osh,39,Diving,cruise,Tashkent
+84533,Djalal-Abad,41,Park,boat,Ankara
+76246,Kara-Balta,64,Walking,boat,Tashkent
+53527,Djalal-Abad,50,Park,boat,Berlin
+62330,Osh,45,Sport,plane,Berlin
+53907,Batken,63,Mountain,train,Berlin
+96515,Balykchy,31,Diving,train,Vien
+76065,Djalal-Abad,50,Sport,cruise,Rome
+73754,Balykchy,31,Park,boat,Paris
+69815,Balykchy,57,At home,boat,Tashkent
+35595,Karakol,58,Beach,cruise,Vien
+70398,Osh,41,At home,train,Washington
+92340,Talas,35,Sport,cruise,Vien
+40717,Djalal-Abad,55,Sport,cruise,Tashkent
+35203,Djalal-Abad,38,Mountain,cruise,Tashkent
+91984,Bishkek,61,Park,train,Astana
+73412,Balykchy,41,Beach,cruise,Paris
+69549,Djalal-Abad,48,Beach,plane,Vien
+70437,Naryn,32,Walking,plane,Paris
+84701,Talas,57,Shopping,cruise,Rome
+48106,Naryn,52,Shopping,train,Ankara
+63250,Balykchy,58,Sport,auto,Astana
+60576,Karakol,58,Diving,train,Ankara
+74672,Djalal-Abad,41,Beach,train,Washington
+53650,Talas,63,Mountain,plane,Astana
+58026,Naryn,53,Diving,boat,Astana
+82120,Balykchy,40,Diving,cruise,Berlin
+50307,Kara-Balta,44,Walking,cruise,Ankara
+90539,Osh,33,Diving,auto,Astana
+80705,Osh,33,Diving,auto,Astana
+68371,Kara-Balta,45,Sport,auto,Rome
+68857,Balykchy,46,Sport,cruise,Berlin
+70640,Balykchy,48,Diving,cruise,Rome
+64750,Bishkek,30,Shopping,plane,Rome
+41015,Osh,36,Park,plane,Washington
+54259,Bishkek,56,Beach,boat,Tashkent
+32112,Kara-Balta,50,Park,boat,Berlin
+60587,Djalal-Abad,35,Sport,cruise,Tashkent
+86775,Djalal-Abad,35,Diving,auto,Ankara
+45480,Kara-Balta,47,At home,plane,Rome
+52184,Talas,31,Mountain,cruise,Tashkent
+60384,Karakol,58,Diving,cruise,Washington
+38856,Talas,45,Diving,boat,Paris
+32327,Naryn,36,Diving,train,Rome
+96994,Talas,60,Park,cruise,Astana
+84088,Balykchy,42,Park,boat,Rome
+65071,Bishkek,55,Mountain,train,Berlin
+63542,Bishkek,47,At home,boat,Astana
+69394,Balykchy,36,Beach,plane,Washington
+78047,Naryn,62,Shopping,plane,Paris
+33608,Kara-Balta,37,Diving,train,Astana
+95220,Balykchy,39,Walking,plane,Vien
+75716,Talas,52,Sport,train,Tashkent
+56603,Talas,49,Beach,auto,Berlin
+38877,Balykchy,61,Mountain,train,Ankara
+99389,Batken,44,Sport,plane,Ankara
+47552,Osh,44,Walking,auto,Washington
+66175,Naryn,56,Sport,plane,Vien
+37156,Kara-Balta,46,Shopping,plane,Paris
+69967,Talas,36,Mountain,boat,Astana
+93531,Djalal-Abad,60,Beach,plane,Tashkent
+91789,Balykchy,40,At home,boat,Ankara
+70315,Djalal-Abad,30,Walking,auto,Berlin
+69206,Kara-Balta,30,Beach,auto,Vien
+75888,Batken,45,Sport,train,Vien
+74283,Karakol,41,At home,cruise,Berlin
+94816,Osh,47,Beach,cruise,Rome
+99656,Batken,52,Sport,cruise,Vien
+31249,Osh,48,At home,auto,Tashkent
+44200,Talas,59,Walking,train,Washington
+42036,Djalal-Abad,42,Shopping,plane,Berlin
+31018,Balykchy,39,Diving,train,Rome
+79573,Talas,49,At home,cruise,Tashkent
+49199,Bishkek,37,Park,auto,Tashkent
+60455,Djalal-Abad,34,Beach,boat,Washington
+68574,Bishkek,42,Walking,cruise,Astana
+43360,Naryn,45,Diving,train,Paris
+64190,Batken,50,Walking,cruise,Paris
+59362,Balykchy,32,At home,plane,Astana
+76519,Bishkek,58,Shopping,plane,Ankara
+88537,Batken,43,Beach,auto,Rome
+71126,Djalal-Abad,57,At home,plane,Tashkent
+68667,Karakol,40,Beach,plane,Astana
+77365,Talas,30,Sport,train,Rome
+61355,Bishkek,45,Diving,cruise,Washington
+39704,Naryn,45,Diving,cruise,Washington
+33193,Naryn,42,Diving,train,Paris
+79589,Batken,41,Shopping,auto,Vien
+40243,Karakol,35,Beach,plane,Tashkent
+81767,Batken,57,Diving,auto,Berlin
+59992,Naryn,43,Sport,train,Astana
+50316,Djalal-Abad,34,Walking,cruise,Paris
+53344,Djalal-Abad,43,Shopping,auto,Tashkent
+30942,Naryn,35,Beach,train,Ankara
+91972,Osh,51,Diving,plane,Tashkent
+32921,Osh,37,Diving,auto,Vien
+53699,Bishkek,36,Park,boat,Vien
+77344,Karakol,64,Sport,plane,Paris
+93903,Balykchy,35,Walking,cruise,Paris
+92133,Batken,36,Shopping,boat,Tashkent
+74374,Djalal-Abad,41,Shopping,auto,Berlin
+62088,Naryn,56,Mountain,boat,Vien
+84483,Balykchy,47,Sport,boat,Ankara
+84929,Osh,48,At home,boat,Berlin
+65782,Karakol,37,Diving,auto,Vien
+30174,Kara-Balta,56,Beach,plane,Berlin
+44616,Osh,53,Shopping,auto,Rome
+94755,Djalal-Abad,40,Sport,plane,Ankara
+56046,Naryn,46,Shopping,plane,Ankara
+93892,Balykchy,59,Diving,train,Astana
+83115,Talas,52,Beach,plane,Berlin
+97869,Djalal-Abad,45,Park,boat,Berlin
+67668,Karakol,39,At home,train,Berlin
+74482,Karakol,33,Beach,plane,Tashkent
+72114,Osh,45,Sport,auto,Paris
+38129,Naryn,62,Beach,cruise,Tashkent
+42710,Djalal-Abad,35,Shopping,auto,Berlin
+71081,Kara-Balta,57,At home,train,Astana
+69594,Bishkek,54,Park,cruise,Washington
+52067,Karakol,50,Park,auto,Berlin
+45391,Bishkek,52,Beach,auto,Berlin
+52805,Batken,47,Walking,cruise,Vien
+47334,Karakol,60,Walking,plane,Astana
+59550,Talas,43,Beach,boat,Paris
+80738,Kara-Balta,36,Shopping,cruise,Rome
+62565,Osh,39,Sport,auto,Tashkent
+60393,Kara-Balta,54,Mountain,plane,Vien
+67170,Karakol,64,Diving,cruise,Rome
+86936,Djalal-Abad,58,At home,plane,Berlin
+96246,Osh,42,Mountain,plane,Tashkent
+64843,Osh,46,Sport,boat,Vien
+33835,Kara-Balta,64,At home,cruise,Paris
+87698,Karakol,33,Mountain,plane,Berlin
+52954,Balykchy,64,Park,train,Vien
+78004,Balykchy,62,Mountain,auto,Vien
+84162,Osh,50,Walking,cruise,Paris
+53930,Kara-Balta,41,Park,train,Ankara
+91973,Naryn,38,Sport,boat,Vien
+56628,Talas,38,Diving,auto,Astana
+64200,Djalal-Abad,46,Beach,plane,Washington
+52988,Djalal-Abad,34,Sport,auto,Rome
+72996,Kara-Balta,65,Park,boat,Astana
+80425,Talas,46,Walking,plane,Vien
+75575,Djalal-Abad,54,Sport,cruise,Ankara
+49368,Djalal-Abad,48,Beach,auto,Astana
+77185,Talas,45,Park,plane,Vien
+48483,Bishkek,34,Sport,auto,Rome
+87366,Talas,44,Walking,boat,Washington
+93744,Osh,40,At home,auto,Ankara
+93826,Talas,39,Diving,cruise,Paris
+59177,Batken,46,Sport,train,Astana
+35434,Kara-Balta,35,Shopping,cruise,Paris
+85161,Djalal-Abad,37,Walking,boat,Vien
+97716,Naryn,44,Diving,boat,Vien
+42748,Kara-Balta,33,Beach,auto,Tashkent
+89396,Kara-Balta,45,Beach,boat,Berlin
+42943,Talas,47,Shopping,cruise,Rome
+72880,Balykchy,41,Mountain,cruise,Rome
+83905,Talas,61,Walking,cruise,Vien
+81459,Talas,65,Walking,plane,Berlin
+31059,Djalal-Abad,47,Sport,boat,Vien
+48162,Kara-Balta,57,Walking,train,Tashkent
+66433,Kara-Balta,51,Park,boat,Paris
+73418,Kara-Balta,42,Walking,train,Berlin
+56853,Balykchy,62,At home,boat,Tashkent
+50087,Bishkek,50,Shopping,train,Vien
+86783,Karakol,56,Park,boat,Tashkent
+78010,Osh,36,Walking,boat,Ankara
+99385,Kara-Balta,61,Park,train,Berlin
+96471,Talas,47,Shopping,train,Washington
+52214,Batken,41,Park,cruise,Astana
+77652,Balykchy,54,Park,boat,Washington
+98735,Balykchy,38,Diving,boat,Tashkent
+56291,Balykchy,40,Walking,cruise,Tashkent
+48036,Djalal-Abad,46,Beach,cruise,Rome
+52587,Djalal-Abad,56,Shopping,train,Tashkent
+33225,Talas,30,Diving,boat,Vien
+35177,Bishkek,30,Mountain,plane,Astana
+83666,Djalal-Abad,57,Mountain,plane,Rome
+73230,Talas,58,Mountain,auto,Paris
+86974,Kara-Balta,65,Walking,auto,Berlin
+35056,Osh,42,Mountain,plane,Paris
+89723,Talas,33,Shopping,cruise,Washington
+88349,Talas,50,At home,auto,Vien
+41772,Karakol,65,Beach,plane,Rome
+47727,Kara-Balta,46,Walking,plane,Ankara
+90923,Balykchy,60,Walking,boat,Ankara
+58024,Balykchy,42,Mountain,plane,Astana
+77361,Osh,51,Shopping,train,Berlin
+75108,Naryn,59,At home,boat,Ankara
+88234,Batken,41,Walking,train,Berlin
+46733,Batken,33,Beach,cruise,Ankara
+44966,Naryn,35,Walking,plane,Berlin
+31397,Bishkek,43,Walking,train,Vien
+56462,Kara-Balta,33,Sport,auto,Ankara
+75453,Balykchy,50,Beach,train,Rome
+44705,Batken,64,Sport,plane,Washington
+34964,Naryn,41,Shopping,train,Washington
+86181,Kara-Balta,37,Park,train,Astana
+48278,Talas,58,Beach,plane,Berlin
+43412,Balykchy,51,At home,auto,Washington
+54135,Kara-Balta,30,Walking,train,Washington
+77914,Talas,43,Park,cruise,Vien
+85510,Talas,38,Shopping,auto,Ankara
+84209,Naryn,49,Mountain,boat,Rome
+42405,Karakol,63,Mountain,auto,Vien
+54837,Balykchy,41,Shopping,auto,Vien
+80465,Osh,33,Walking,plane,Ankara
+50238,Balykchy,43,Mountain,boat,Tashkent
+73228,Karakol,48,Shopping,auto,Berlin
+55859,Talas,42,Mountain,cruise,Paris
+85281,Karakol,60,Sport,cruise,Paris
+50279,Bishkek,42,Walking,train,Ankara
+78724,Djalal-Abad,38,Park,train,Astana
+45291,Batken,45,Mountain,boat,Tashkent
+50567,Djalal-Abad,36,Sport,cruise,Ankara
+56304,Karakol,32,Beach,boat,Ankara
+74369,Talas,42,Shopping,boat,Ankara
+72823,Talas,59,Beach,boat,Ankara
+86429,Balykchy,61,Diving,cruise,Ankara
+74149,Osh,39,Mountain,cruise,Berlin
+33949,Talas,49,Beach,boat,Astana
+69828,Talas,60,Park,cruise,Paris
+86435,Kara-Balta,34,Park,auto,Astana
+32919,Djalal-Abad,34,Sport,auto,Paris
+46813,Osh,50,Diving,boat,Berlin
+32641,Djalal-Abad,65,At home,cruise,Astana
+41181,Batken,49,Sport,train,Berlin
+84745,Kara-Balta,47,Diving,cruise,Vien
+79103,Balykchy,30,Sport,cruise,Berlin
+82120,Batken,48,Shopping,boat,Vien
+30492,Kara-Balta,60,Walking,plane,Rome
+35796,Osh,55,Sport,auto,Washington
+53176,Talas,32,Mountain,plane,Astana
+68050,Karakol,31,Shopping,plane,Washington
+70630,Bishkek,40,Beach,plane,Paris
+38286,Karakol,30,Walking,plane,Rome
+84999,Naryn,42,Park,plane,Washington
+64189,Kara-Balta,39,Shopping,plane,Washington
+51462,Kara-Balta,58,Shopping,plane,Tashkent
+90663,Balykchy,62,Beach,cruise,Rome
+35598,Balykchy,39,Shopping,cruise,Tashkent
+93474,Kara-Balta,47,Shopping,auto,Rome
+39054,Osh,38,At home,boat,Berlin
+94106,Naryn,33,At home,boat,Washington
+48626,Talas,62,Diving,cruise,Paris
+92296,Bishkek,30,At home,cruise,Berlin
+58420,Kara-Balta,35,Park,plane,Berlin
+32593,Balykchy,59,At home,train,Washington
+50987,Batken,62,Sport,boat,Ankara
+30548,Naryn,36,Walking,train,Astana
+72998,Osh,45,At home,auto,Paris
+50299,Naryn,36,Sport,auto,Astana
+83209,Naryn,47,Park,cruise,Tashkent
+57188,Naryn,53,Park,auto,Paris
+35467,Batken,57,Beach,train,Astana
+94730,Karakol,64,Shopping,auto,Berlin
+58024,Naryn,53,Mountain,auto,Tashkent
+35219,Talas,37,Beach,plane,Paris
+69052,Djalal-Abad,57,At home,cruise,Ankara
+52243,Talas,59,At home,train,Tashkent
+92893,Osh,42,Diving,plane,Astana
+78369,Batken,57,Diving,train,Astana
+89680,Talas,37,Sport,cruise,Astana
+58419,Naryn,57,Mountain,train,Washington
+61980,Bishkek,46,Park,auto,Rome
+64128,Talas,61,Shopping,train,Astana
+57151,Karakol,48,Shopping,train,Vien
+96493,Talas,61,Park,train,Washington
+51564,Kara-Balta,64,At home,boat,Astana
+45957,Bishkek,47,Sport,boat,Rome
+61806,Karakol,58,Park,cruise,Tashkent
+73994,Bishkek,51,Beach,boat,Ankara
+77079,Batken,32,At home,plane,Berlin
+55554,Karakol,41,Shopping,boat,Paris
+83684,Osh,39,Shopping,boat,Berlin
+91526,Karakol,41,Beach,plane,Rome
+57509,Karakol,43,Diving,plane,Berlin
+49160,Karakol,31,Park,boat,Washington
+32475,Kara-Balta,51,Walking,auto,Rome
+44379,Karakol,32,Mountain,train,Rome
+88551,Naryn,59,Park,cruise,Berlin
+76870,Batken,38,Park,cruise,Tashkent
+86854,Bishkek,55,Diving,boat,Ankara
+97569,Naryn,63,At home,cruise,Berlin
+99655,Batken,60,Mountain,plane,Vien
+30058,Balykchy,38,Mountain,auto,Rome
+39196,Balykchy,33,Park,boat,Washington
+69253,Karakol,33,Diving,boat,Vien
+33884,Naryn,62,Diving,cruise,Ankara
+55937,Naryn,32,At home,auto,Vien
+32389,Osh,44,Diving,boat,Rome
+72767,Bishkek,31,Beach,train,Tashkent
+85262,Talas,52,At home,boat,Ankara
+98015,Naryn,65,Walking,plane,Washington
+45820,Karakol,44,Beach,plane,Washington
+80904,Batken,35,Shopping,boat,Ankara
+86649,Talas,38,Walking,plane,Astana
+49785,Balykchy,50,Shopping,auto,Berlin
+62359,Djalal-Abad,61,Sport,train,Rome
+35139,Kara-Balta,46,Walking,train,Vien
+34227,Batken,44,Walking,boat,Paris
+67451,Batken,34,Park,auto,Vien
+37098,Bishkek,57,Beach,boat,Vien
+84788,Osh,47,At home,plane,Tashkent
+55030,Djalal-Abad,30,At home,boat,Paris
+35715,Bishkek,33,At home,train,Rome
+85248,Naryn,65,Park,train,Tashkent
+69220,Bishkek,62,Park,train,Rome
+69891,Batken,49,At home,train,Paris
+39079,Djalal-Abad,36,Walking,train,Ankara
+63762,Karakol,31,Mountain,cruise,Tashkent
+46284,Naryn,34,Shopping,cruise,Berlin
+40573,Batken,41,Walking,auto,Astana
+96832,Djalal-Abad,58,Shopping,boat,Paris
+44003,Karakol,45,Mountain,plane,Astana
+58239,Balykchy,60,Sport,boat,Berlin
+65098,Batken,58,Mountain,cruise,Tashkent
+41474,Osh,55,Diving,auto,Ankara
+58264,Balykchy,38,Mountain,cruise,Ankara
+86176,Bishkek,30,At home,train,Paris
+67385,Naryn,47,Mountain,boat,Paris
+40421,Balykchy,31,Mountain,auto,Ankara
+80466,Djalal-Abad,53,Sport,plane,Paris
+71673,Naryn,51,Sport,train,Tashkent
+47492,Osh,49,Diving,plane,Berlin
+93778,Talas,30,Shopping,train,Vien
+33345,Balykchy,42,At home,cruise,Tashkent
+88923,Osh,38,Walking,boat,Ankara
+42915,Kara-Balta,36,Beach,cruise,Berlin
+81906,Bishkek,42,Beach,boat,Ankara
+38295,Karakol,61,Park,boat,Ankara
+32604,Osh,47,Sport,train,Astana
+80660,Bishkek,57,Shopping,boat,Astana
+83901,Karakol,41,Mountain,train,Rome
+32076,Kara-Balta,51,Mountain,auto,Rome
+88830,Osh,39,Park,auto,Tashkent
+84982,Batken,51,Sport,boat,Vien
+48537,Balykchy,46,Sport,cruise,Rome
+95596,Talas,64,Sport,auto,Paris
+39403,Talas,47,Beach,plane,Berlin
+73492,Karakol,58,At home,boat,Ankara
+40600,Bishkek,62,Beach,auto,Rome
+97635,Talas,49,Shopping,boat,Ankara
+40017,Osh,62,Shopping,cruise,Paris
+62793,Kara-Balta,55,Park,auto,Paris
+97383,Balykchy,41,Mountain,auto,Ankara
+64802,Talas,57,Sport,cruise,Astana
+78797,Karakol,52,Beach,boat,Vien
+42553,Bishkek,60,Shopping,auto,Paris
+89338,Karakol,43,Sport,cruise,Tashkent
+76364,Djalal-Abad,60,Diving,train,Vien
+86079,Talas,50,Beach,plane,Vien
+63129,Djalal-Abad,34,Park,cruise,Astana
+81499,Talas,40,At home,plane,Astana
+82908,Djalal-Abad,50,Beach,cruise,Astana
+35469,Naryn,34,Beach,plane,Vien
+41155,Talas,53,Walking,auto,Washington
+33521,Kara-Balta,51,Beach,auto,Paris
+69720,Balykchy,45,At home,auto,Rome
+96347,Naryn,37,Diving,auto,Vien
+97587,Karakol,53,Beach,auto,Ankara
+67620,Naryn,41,Shopping,train,Washington
+99076,Balykchy,62,Beach,cruise,Tashkent
+42202,Kara-Balta,48,Mountain,cruise,Rome
+93122,Kara-Balta,60,Diving,train,Vien
+45410,Naryn,52,Mountain,cruise,Ankara
+37808,Kara-Balta,50,Walking,train,Vien
+95722,Talas,63,Sport,train,Washington
+73488,Balykchy,40,Sport,boat,Berlin
+95985,Balykchy,39,Mountain,auto,Tashkent
+84060,Talas,42,Sport,cruise,Astana
+67994,Batken,35,Sport,cruise,Washington
+68945,Kara-Balta,41,At home,plane,Vien
+30188,Talas,53,Shopping,cruise,Ankara
+56898,Naryn,30,Walking,auto,Ankara
+99484,Bishkek,57,At home,cruise,Paris
+36098,Osh,49,Diving,plane,Rome
+71381,Naryn,58,At home,train,Ankara
+88051,Djalal-Abad,32,At home,auto,Paris
+54178,Bishkek,38,Shopping,cruise,Rome
+50256,Osh,57,Walking,train,Paris
+56192,Djalal-Abad,42,At home,plane,Berlin
+91503,Naryn,37,Beach,train,Ankara
+66147,Karakol,40,At home,cruise,Tashkent
+91461,Kara-Balta,53,Shopping,train,Paris
+74598,Karakol,61,Walking,cruise,Astana
+89432,Karakol,46,Mountain,train,Vien
+34170,Balykchy,45,Park,boat,Berlin
+93109,Djalal-Abad,53,Mountain,boat,Paris
+52008,Karakol,37,Beach,plane,Ankara
+88909,Talas,61,Beach,plane,Paris
+66951,Osh,31,At home,plane,Paris
+52789,Kara-Balta,43,At home,boat,Rome
+83776,Kara-Balta,57,At home,auto,Rome
+96905,Balykchy,42,Shopping,auto,Washington
+49767,Balykchy,61,Walking,plane,Berlin
+54497,Osh,51,At home,auto,Ankara
+87552,Osh,32,Diving,boat,Astana
+74464,Karakol,38,Sport,boat,Paris
+37619,Batken,37,Walking,boat,Ankara
+56007,Karakol,56,Sport,train,Washington
+68979,Naryn,39,Shopping,plane,Astana
